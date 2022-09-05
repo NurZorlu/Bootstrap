@@ -1,0 +1,15 @@
+ a {
+    color: white;
+    padding-left: 10px;
+    margin: 5px;
+    display: inline;
+
+}
+
+.mainPage {
+    margin: 10px;
+    font-style: normal;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+
+}
